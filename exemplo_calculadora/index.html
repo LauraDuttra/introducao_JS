@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>somando com input</title>
+</head>
+<body>
+    <div class="calculadora-box">
+        <h1>Calculando</h1>
+        <input type="text" placeholder="Primeiro valor" id="num1">
+        <input type="text" placeholder="Segundo valor" id="num2">
+        <div class="buttons-container">
+            <button onclick="soma()">adição</button>
+            <button onclick="subtracao()">subtração</button>
+            <button onclick="mutiplicacao()">mutiplicação</button>
+            <button onclick="divisao()">divisao</button>
+        </div>
+        <p id="resultado"></p>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
