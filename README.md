@@ -1,5 +1,8 @@
 # *Projeto de Páginas Interativas com JavaScript* 📚
 
+## Figma 👌
+>https://www.figma.com/design/IszO80gzcTW6Bn3tyRncel/Ag%C3%AAncia-de-Viagens?m=auto&t=59smAhEMkDMXhwmz-6
+
 ## Funcionalidades 🚀
 
 > Este projeto consiste em diversas páginas HTML interativas com funcionalidades em JavaScript, permitindo ao usuário interagir com o conteúdo de formas criativas e dinâmicas.
